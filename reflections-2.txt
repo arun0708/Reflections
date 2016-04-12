@@ -1,0 +1,10 @@
+do git init so git starts tracing your files and directories
+staging area is a place for files/fir to be commited, it gives flexibility of picking and choosing which files to be committed
+
+make sure all needed changes for one logical change are added to staging area
+diff --staged to see diff between staged and commit before commiting
+
+use branches when you are working on a different or experimental feature from  master branch
+
+branch diagrams tells yu the structure of branches, which commits are reachable etc.,
+

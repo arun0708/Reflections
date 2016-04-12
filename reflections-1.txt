@@ -1,0 +1,6 @@
+Interesting discussion on diffing two files
+google doc is not a software system and does not support multiple file changes
+git is uusally used to support software systems, which has multiple file depenencies
+use git diff c1# c2# --stat to see the total additions/deletions
+if I make a mistake I could checjout past versions to find the commit which introduced the bug
+use git effectovely for ZOP's
