@@ -6,5 +6,8 @@ diff --staged to see diff between staged and commit before commiting
 
 use branches when you are working on a different or experimental feature from  master branch
 
-branch diagrams tells yu the structure of branches, which commits are reachable etc.,
+branch diagrams tells you the structure of branches, which commits are reachable etc.,
+
+
+merging two branches together merges the history of both branches and log sorts them by timestamps and a new branch is created, old branch can be deleted
 
