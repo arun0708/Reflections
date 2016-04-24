@@ -11,3 +11,5 @@ branch diagrams tells you the structure of branches, which commits are reachable
 
 merging two branches together merges the history of both branches and log sorts them by timestamps and a new branch is created, old branch can be deleted
 
+automatic merge is good when there are no conflicts, manual merge makes sure conflicting changes are resolved correctly
+
