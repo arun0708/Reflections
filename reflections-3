@@ -2,3 +2,9 @@ When would you want to create a remore rep instead of keeping all the work local
   - when you want to make a copy in cloud and or collaborate with other people
 
 Do it manually - pulling from remote so you control your local master
+
+for when you do not have permission from repo owner but you want to give credit.you may have to merge it back if you have done sufficient improvements with permission of owner
+
+clone when you want to copy things to your local disk (whole repo)
+
+Branch when you want to work on a specific feature
