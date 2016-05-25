@@ -8,3 +8,6 @@ for when you do not have permission from repo owner but you want to give credit.
 clone when you want to copy things to your local disk (whole repo)
 
 Branch when you want to work on a specific feature
+
+
+Benefit of local copy of last know state of remote repo is to work offline, do a git diff with remote after git fetch to see what has been developed in remote
