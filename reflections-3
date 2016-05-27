@@ -11,3 +11,6 @@ Branch when you want to work on a specific feature
 
 
 Benefit of local copy of last know state of remote repo is to work offline, do a git diff with remote after git fetch to see what has been developed in remote
+
+
+Git hub collabs gives you the power of multiple people working together, keeping track of history,working offline etc. without git hub 2 poeple could work together or we have to use code diff tools it will be painful
