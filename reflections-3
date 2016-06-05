@@ -14,3 +14,5 @@ Benefit of local copy of last know state of remote repo is to work offline, do a
 
 
 Git hub collabs gives you the power of multiple people working together, keeping track of history,working offline etc. without git hub 2 poeple could work together or we have to use code diff tools it will be painful
+
+make changes in a separate branch if you are going to work for a long time on your own - so you can keep merging to remote master through fetch
